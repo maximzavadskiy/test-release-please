@@ -1,3 +1,3 @@
 export default function greeter(firstName: string) {
-    console.log(`Hello dear ${firstName}`)
+    console.log(`Hey you,  ${firstName}`)
 }
