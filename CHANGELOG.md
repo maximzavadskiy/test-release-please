@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/maximzavadskiy/test-release-please/compare/v1.2.0...v1.3.0) (2024-07-15)
+
+
+### Features
+
+* make greeter poetic ([a34f77b](https://github.com/maximzavadskiy/test-release-please/commit/a34f77b71e9f69c10178ecf63d34f4fad0bd953c))
+
 ## [1.2.0](https://github.com/maximzavadskiy/test-release-please/compare/v1.1.0...v1.2.0) (2024-07-15)
 
 
