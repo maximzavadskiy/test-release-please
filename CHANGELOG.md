@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/maximzavadskiy/test-release-please/compare/v1.3.0...v1.4.0) (2024-07-15)
+
+
+### Features
+
+* make greeter ask How are you? ([d6cc8a0](https://github.com/maximzavadskiy/test-release-please/commit/d6cc8a075abc9135a2ac427965e207902c0f2f9d))
+* make greeter hip-hop ([b11e4fb](https://github.com/maximzavadskiy/test-release-please/commit/b11e4fb423618cd0b33a0002f7bdf4f7b8b37c9c))
+
 ## [1.3.0](https://github.com/maximzavadskiy/test-release-please/compare/v1.2.0...v1.3.0) (2024-07-15)
 
 
