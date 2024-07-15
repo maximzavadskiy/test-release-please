@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/maximzavadskiy/test-release-please/compare/v1.1.0...v1.2.0) (2024-07-15)
+
+
+### Features
+
+* make greeter more informal ([b270558](https://github.com/maximzavadskiy/test-release-please/commit/b270558775e4eaebdc2936a189784147b9ed0347))
+
 ## [1.1.0](https://github.com/maximzavadskiy/test-release-please/compare/v1.0.0...v1.1.0) (2024-07-13)
 
 
