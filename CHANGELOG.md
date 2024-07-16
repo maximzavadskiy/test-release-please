@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.0-rc.3](https://github.com/maximzavadskiy/test-release-please/compare/release-please-v2.0.0-rc.2...release-please-v2.0.0-rc.3) (2024-07-16)
+
+
+### Features
+
+* add want-to-play invitation ([1a7cedc](https://github.com/maximzavadskiy/test-release-please/commit/1a7cedcb4fc2be1f57e7f93cd161322bbbc3fa39))
+
 ## [2.0.0-rc.2](https://github.com/maximzavadskiy/test-release-please/compare/release-please-v2.0.0-rc.1...release-please-v2.0.0-rc.2) (2024-07-16)
 
 
