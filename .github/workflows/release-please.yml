@@ -19,10 +19,10 @@ jobs:
                     token: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
                     # this is a built-in strategy in release-please, see "Action Inputs"
                     # for more options
-                    release-type: node
-                    prerelease-type: rc
-                    bump-minor-pre-major: false
-                    bump-patch-for-minor-pre-major: false
-                    draft: false
-                    prerelease: true
-                    versioning: prerelease
+                    config-file: release-please-config.json
+                    # prerelease-type: rc
+                    # bump-minor-pre-major: false
+                    # bump-patch-for-minor-pre-major: false
+                    # draft: false
+                    # prerelease: true
+                    # versioning: prerelease
