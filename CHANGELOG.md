@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.0-rc.1](https://github.com/maximzavadskiy/test-release-please/compare/release-please-v2.0.0-rc...release-please-v2.0.0-rc.1) (2024-07-16)
+
+
+### Bug Fixes
+
+* remove extra space ([e5336eb](https://github.com/maximzavadskiy/test-release-please/commit/e5336eb9e162ff7f3deabad36a998cd2ea5d0251))
+
 ## [2.0.0-rc](https://github.com/maximzavadskiy/test-release-please/compare/release-please-v1.4.0...release-please-v2.0.0-rc) (2024-07-16)
 
 
