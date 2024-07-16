@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.0](https://github.com/maximzavadskiy/test-release-please/compare/release-please-v2.0.0-rc.3...release-please-v2.0.0) (2024-07-16)
+
+
+### Miscellaneous Chores
+
+* force release 2.0.0 ([36b5fdd](https://github.com/maximzavadskiy/test-release-please/commit/36b5fdd6618f6819f71e9bd84b4ff8491954c7fc))
+
 ## [2.0.0-rc.3](https://github.com/maximzavadskiy/test-release-please/compare/release-please-v2.0.0-rc.2...release-please-v2.0.0-rc.3) (2024-07-16)
 
 
