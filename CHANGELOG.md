@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0-rc](https://github.com/maximzavadskiy/test-release-please/compare/v2.0.1-rc...v2.1.0-rc) (2024-07-19)
+
+
+### Features
+
+* add encouragment ([b95467c](https://github.com/maximzavadskiy/test-release-please/commit/b95467c3b3ea246b13c80274c1bbe1368a86cf98))
+
 ## [2.0.1-rc](https://github.com/maximzavadskiy/test-release-please/compare/v2.0.0...v2.0.1-rc) (2024-07-19)
 
 
