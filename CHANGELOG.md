@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1-rc](https://github.com/maximzavadskiy/test-release-please/compare/v2.0.0...v2.0.1-rc) (2024-07-19)
+
+
+### Bug Fixes
+
+* politness everywhere ([fd38f8d](https://github.com/maximzavadskiy/test-release-please/commit/fd38f8d38c40700f4aea7caec98dbea3d1c845f2))
+
 ## [2.0.0](https://github.com/maximzavadskiy/test-release-please/compare/v2.0.0...v2.0.0) (2024-07-19)
 
 
