@@ -9,7 +9,8 @@
       "draft": false,
       "prerelease": true,
       "versioning": "prerelease",
-      "include-component-in-tag": false
+      "include-component-in-tag": false,
+      "skip-github-release": true
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
