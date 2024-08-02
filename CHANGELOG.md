@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0-rc.1](https://github.com/maximzavadskiy/test-release-please/compare/v2.1.0-rc...v2.1.0-rc.1) (2024-08-02)
+
+
+### Features
+
+* add weather forecast ([3ebe071](https://github.com/maximzavadskiy/test-release-please/commit/3ebe071164d29629875d68d3c4b6815c6895c80d))
+
 ## [2.1.0-rc](https://github.com/maximzavadskiy/test-release-please/compare/v2.0.1-rc...v2.1.0-rc) (2024-07-19)
 
 
