@@ -1,6 +1,6 @@
 {
   "name": "release-please",
-  "version": "2.1.0-rc",
+  "version": "2.1.0-rc.1",
   "description": "",
   "main": "main.ts",
   "scripts": {
