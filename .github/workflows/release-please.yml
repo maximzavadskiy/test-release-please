@@ -12,6 +12,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: googleapis/release-please-action@v4
+              id: release
               with:
                 # this assumes that you have created a personal access token
                 # (PAT) and configured it as a GitHub action secret named
@@ -26,3 +27,12 @@ jobs:
                     # draft: false
                     # prerelease: true
                     # versioning: prerelease
+            #git@github.com:googleapis/release-please.git
+            - run: echo "::debug::prs_created ${{ steps.release.outputs.prs_created }}"
+            - name: PRs
+              run: echo "::debug::prs  ${{ steps.release.outputs.prs }}"
+              if: ${{ steps.release.outputs.prs_created }}
+            - name: PR
+              run: echo "::debug::PR  ${{ steps.release.outputs.pr }}"
+              if: ${{ steps.release.outputs.prs_created }}
+             
