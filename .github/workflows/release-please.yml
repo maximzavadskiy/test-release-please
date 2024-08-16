@@ -11,7 +11,7 @@ jobs:
     release-please:
         runs-on: ubuntu-latest
         steps:
-            - uses: googleapis/release-please-action@v4
+            - uses: maximzavadskiy/release-please-action
               id: release
               with:
                 # this assumes that you have created a personal access token
